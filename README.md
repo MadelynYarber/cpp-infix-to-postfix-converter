@@ -15,3 +15,8 @@ A C++ program that converts mathematical infix expressions to postfix format and
 ```bash
 make
 ./in2post
+
+## Example
+Enter expression: (3 + 4) * 5
+Postfix: 3 4 + 5 *
+Evaluated: 35
