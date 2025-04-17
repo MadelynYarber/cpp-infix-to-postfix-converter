@@ -1,2 +1,17 @@
-# cpp-infix-to-postfix-converter
-CLI tool that converts infix expressions to postfix and evaluates them using a custom templated stack.
+# Infix to Postfix Converter
+A C++ program that converts mathematical infix expressions to postfix format and evaluates them using a custom templated `Stack<T>` class.
+
+---
+## Features
+- Converts infix expressions to postfix
+- Evaluates postfix expressions
+- Custom templated stack implementation
+- Handles parentheses and operator precedence
+- Detects invalid expressions
+
+---
+## Build and Run
+
+```bash
+make
+./in2post
